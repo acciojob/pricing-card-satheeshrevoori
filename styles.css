@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+ .card {
+
+        width:300px;
+        background-color: #f1f1f1;
+        box-shadow: 20px;
+        height: auto;
+        margin:auto;
+        padding: 10px;
+        text-align: center;
+        font-size: larger;
+        font-stretch: expanded;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+ } 
+ 
+ .card button {
+    border-radius: 10px;
+    padding: 12px;
+    color:white;
+    background-color: #e41313;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+  }
+ 
+  .price {
+    font-size: larger;
+    font-weight: 300;
+    
+  }
+  img 
+    {
+        width: 250px;
+        height: 200px;
+    }
